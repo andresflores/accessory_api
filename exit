@@ -1,0 +1,7 @@
+.exit not found, maybe you meant:
+
+RVM::Shell::Result#exit_status
+Rake::Application#exit_because_of_exception
+Rake::PseudoStatus#exited?
+Rake::PseudoStatus#exitstatus
+Thor::Base::ClassMethods#exit_on_failure?
